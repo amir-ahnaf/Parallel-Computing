@@ -1,3 +1,3 @@
 # Parallel-Computing
--- GPU Parallel computing via CUDA
--- CPU Parallel computing
+- GPU Parallel computing via CUDA
+- CPU Parallel computing
